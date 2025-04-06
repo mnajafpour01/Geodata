@@ -1,10 +1,55 @@
-﻿2/24/2022,Russia,Conflict,0.9,0.8,Russia invades Ukraine
+Date,Region,EventType,Strength,Signal,Description
+2/15/2018,MiddleEast,Conflict,0.7,0.65,Middle East tensions escalate
+3/22/2018,USA,Treaty,0.8,-0.55,New international trade agreement signed
+4/12/2018,Russia,Conflict,0.9,0.85,Russia increases military presence near border
+5/30/2018,China,TradeWar,0.75,-0.7,New tariffs on tech imports announced
+7/18/2018,Global,Conflict,0.6,0.5,Global security concerns rise after international incident
+9/5/2018,MiddleEast,Conflict,0.8,0.75,Oil production disruptions reported in Middle East
+10/20/2018,China,Treaty,0.7,0.6,New technology sharing agreement announced
+12/10/2018,USA,TradeWar,0.85,-0.8,Increased tariffs on multiple sectors
+1/25/2019,Global,Treaty,0.65,0.55,International climate agreement ratified
+3/15/2019,Russia,Conflict,0.9,0.85,Military exercises near European borders
+5/1/2019,MiddleEast,Conflict,0.75,0.7,Tensions rise in oil-producing regions
+6/18/2019,China,TradeWar,0.8,-0.75,Technology export restrictions announced
+8/5/2019,USA,Treaty,0.7,-0.6,Defense cooperation agreement signed
+9/22/2019,Global,Conflict,0.65,0.6,International peacekeeping mission launched
+11/10/2019,Russia,TradeWar,0.75,-0.7,Energy export restrictions imposed
+1/5/2020,MiddleEast,Conflict,0.85,0.8,Major conflict erupts in oil-producing region
+2/20/2020,China,Treaty,0.6,0.5,Trade normalization agreement signed
+3/15/2020,Global,Conflict,0.7,0.65,Global pandemic declared affecting markets
+5/2/2020,USA,TradeWar,0.75,-0.7,New semiconductor export restrictions
+6/18/2020,Russia,Conflict,0.8,0.75,Military buildup reported near NATO borders
+8/5/2020,MiddleEast,Treaty,0.65,-0.6,Peace agreement signed between conflicting nations
+9/20/2020,China,TradeWar,0.9,-0.85,Major technology sanctions announced
+11/8/2020,Global,Treaty,0.7,0.65,New international monetary agreement
+1/15/2021,USA,Conflict,0.6,0.55,Domestic unrest affecting defense sector
+3/1/2021,Russia,TradeWar,0.75,-0.7,Energy export disruptions announced
+4/20/2021,MiddleEast,Conflict,0.85,0.8,Major oil pipeline disruption reported
+6/10/2021,China,Treaty,0.7,0.65,Intellectual property protection agreement signed
+7/25/2021,Global,Conflict,0.6,0.55,Global cybersecurity incident affecting markets
+9/12/2021,USA,TradeWar,0.8,-0.75,New import tariffs on multiple sectors
+11/5/2021,Russia,Conflict,0.85,0.8,Military exercises expanded near European borders
+1/10/2022,MiddleEast,Treaty,0.6,-0.55,Regional cooperation agreement signed
+2/24/2022,Russia,Conflict,0.95,0.9,Russia invades Ukraine
 3/8/2022,MiddleEast,Conflict,0.8,0.7,Oil prices surge due to Middle East tensions
+4/8/2022,China,TradeWar,0.8,-0.75,New semiconductor manufacturing restrictions
+5/20/2022,Global,Treaty,0.7,0.65,New climate finance agreement signed
+7/15/2022,USA,Conflict,0.65,0.6,Increased defense spending announced
 8/2/2022,China,TradeWar,0.7,-0.6,New semiconductor export restrictions to China
+9/1/2022,MiddleEast,Conflict,0.75,0.7,Oil production tensions escalate
 9/15/2022,Global,Treaty,0.5,-0.4,New global climate agreement signed
+10/18/2022,Russia,TradeWar,0.85,-0.8,Major energy export restrictions announced
 11/10/2022,USA,Conflict,0.4,0.5,US increases military presence in Pacific
+12/5/2022,China,Treaty,0.6,0.55,Technology cooperation agreement signed
 1/20/2023,Global,Conflict,0.6,0.6,Global supply chain disruptions due to geopolitical tensions
+2/10/2023,Global,Conflict,0.7,0.65,International security concerns escalate
 3/5/2023,Russia,TradeWar,0.8,-0.7,New sanctions against Russia's energy sector
+3/25/2023,USA,TradeWar,0.8,-0.75,Export controls on critical technologies
+5/12/2023,Russia,Conflict,0.85,0.8,Military activity increases in contested regions
 5/12/2023,China,Treaty,0.7,0.6,China signs new trade deal with Southeast Asia
+7/1/2023,MiddleEast,Treaty,0.6,-0.55,Regional peace initiative announced
 7/1/2023,MiddleEast,Conflict,0.9,0.8,Tensions rise in the Strait of Hormuz
+8/20/2023,China,TradeWar,0.9,-0.85,Major technology sector restrictions
 9/18/2023,USA,Treaty,0.6,-0.5,New technology sharing agreement with allies
+10/5/2023,Global,Conflict,0.75,0.7,Global supply chain disruptions reported
+11/15/2023,USA,Treaty,0.65,0.6,New international defense agreement signed
